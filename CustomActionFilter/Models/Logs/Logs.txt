@@ -1,0 +1,14 @@
+Home -> Index -> OnActionExecuting 	 2/04/2020 3:53:13 a. m. 
+Home -> Index -> OnActionExecuted 	 2/04/2020 3:53:13 a. m. 
+Home -> Index -> OnResultExecuting 	 2/04/2020 3:53:13 a. m. 
+Home -> Index -> OnResultExecuted 	 2/04/2020 3:53:14 a. m. 
+-------------------------- 
+Home -> Index -> OnActionExecuting 	 2/04/2020 3:53:25 a. m. 
+Home -> Index -> OnActionExecuted 	 2/04/2020 3:53:25 a. m. 
+Home -> Index -> OnResultExecuting 	 2/04/2020 3:53:25 a. m. 
+Home -> Index -> OnResultExecuted 	 2/04/2020 3:53:25 a. m. 
+-------------------------- 
+Home -> Exception -> OnActionExecuting 	 2/04/2020 3:53:30 a. m. 
+Home -> Exception -> OnActionExecuted 	 2/04/2020 3:53:32 a. m. 
+Home -> Exception -> OnException 	 2/04/2020 3:53:32 a. m. 
+-------------------------- 
